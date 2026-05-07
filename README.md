@@ -158,7 +158,7 @@ cd "/mnt/c/Users/YOUR_USERNAME/OneDrive - K L University/Desktop/IOT-Streaming-P
 
 source venv/bin/activate
 
-export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 
 cd spark
 
@@ -176,7 +176,7 @@ cd "/mnt/c/Users/YOUR_USERNAME/OneDrive - K L University/Desktop/IOT-Streaming-P
 
 source venv/bin/activate
 
-export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 
 cd spark
 
